@@ -1,0 +1,3 @@
+https://srapi.herokuapp.com/docs/
+https://www.youtube.com/watch?v=mRbOMiKv7IQ
+https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=pl
