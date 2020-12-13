@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App><Counter /></App> Snapshot app.js 1`] = `ShallowWrapper {}`;
